@@ -4,4 +4,5 @@
 </a>
 </p>
 
-## Curso de Desenvolvimento Web lecionado pelo professor [André Fontenelle](https://www.udemy.com/user/andrefontenelle-2/)
+
+<h2 align="center"> Curso de Desenvolvimento Web lecionado pelo professor <a href="https://www.udemy.com/user/andrefontenelle-2/">André Fontenelle</a> </h2>
