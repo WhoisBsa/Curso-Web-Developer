@@ -9,16 +9,19 @@
         
         <script src="jquery-3.2.1.min.js"></script>
         <script>
-			$( function(e) {			
+            function moverObjeto(){
+                $('#janela').animate({left:300}, 1000, "linear");
+            }
 
+			$( function(e) {			
+                $('#direita').click(moverObjeto);
 			})
 
 		</script>        
     </head>
 
     <body>
-        <input type="button" id="direita" 	value="Mover p Direita" />
-        
+        <input type="button" id="direita" 	value="Mover para Direita" />
         <div id="janela"></div>
     </body>
 
