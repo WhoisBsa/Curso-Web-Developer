@@ -97,14 +97,14 @@
 - _Unidade XI: Projeto do Curso_
      > Projeto Número 1
 
-- _Unidade XII: Tabelas
+- _Unidade XII: Tabelas_
      > 1 - Criando sua primeira tabela
 
      > 2 - Tabela semântica
 
      > 3 - Usando do colgoup e col
 
-- _Unidade XIII: Formulários
+- _Unidade XIII: Formulários_
      > 1 - O que é formulário
 
      > 2 - Criação de um formulário simples
