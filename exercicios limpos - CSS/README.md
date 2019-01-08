@@ -83,7 +83,7 @@
   
   > 3 - Redimensionar imagens
   
-- _Unidade X: Lista Mene_
+- _Unidade X: Lista Menu_
   > 1 - Personalizar aparência de uma lista
   
   > 2 - Personalizar primeira e última ocorrência
